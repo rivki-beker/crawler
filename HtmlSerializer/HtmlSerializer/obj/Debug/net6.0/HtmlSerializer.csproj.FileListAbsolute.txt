@@ -1,0 +1,51 @@
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.AssemblyReference.cache
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfoInputs.cache
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfo.cs
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.exe
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.deps.json
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.runtimeconfig.json
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.dll
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.pdb
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.dll
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\refint\HtmlSerializer.dll
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.pdb
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.genruntimeconfig.cache
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\ref\HtmlSerializer.dll
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\tags-files\html-tags-void.json
+Y:\Groups\Group_4\בקר  רבקה\פרקטיקוד\‏‏הגשה מס' 2\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\tags-files\html-tags.json
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.exe
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\tags-files\html-tags-void.json
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\tags-files\html-tags.json
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.deps.json
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.runtimeconfig.json
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.dll
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfo.cs
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.dll
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\refint\HtmlSerializer.dll
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.genruntimeconfig.cache
+C:\Users\user\Desktop\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\ref\HtmlSerializer.dll
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.exe
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\tags-files\html-tags-void.json
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\tags-files\html-tags.json
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.deps.json
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.runtimeconfig.json
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.dll
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.dll
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\refint\HtmlSerializer.dll
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\ref\HtmlSerializer.dll
