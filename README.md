@@ -33,7 +33,7 @@ This project features a tool for HTML processing and querying. It consists of tw
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rivki-beker/crawler.git
    ```
 
 2. **Change the URL**
